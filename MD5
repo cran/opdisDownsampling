@@ -1,0 +1,12 @@
+010b7a63b033c95c667e25d26ac75a23 *DESCRIPTION
+a588cd8e196b5dbb95fdcf8c8e1c10cc *NAMESPACE
+c52c6e965a48c969f9d6ae187652e490 *R/EucDist.R
+6ce17c5dbd56f740af5f0ff71825955d *R/KullbLeiblKLD2.R
+ac9ccc026d0a42a42a7be1b7949381f9 *R/SmoothDensHist1dim.R
+d445f2fed8efe47a1fc270d22a673d4a *R/amrdd.R
+577e278c2afca05db4f3789baf849274 *R/opdisDownsampling.R
+07d8faa3c2575d3f186ff90c179ef82d *data/FlowcytometricData.rda
+453f40173b58ce556a6ce4aed80b1a3d *data/GMMartificialData.rda
+1022f61f84b66f7c84806c985efd80b9 *man/FlowcytometricData.Rd
+32f91f66154af9eef546b763325dd8e1 *man/GMMartificialData.Rd
+b8425377c4c19a7ea8f0018077faf6b4 *man/opdisDownsampling.Rd
