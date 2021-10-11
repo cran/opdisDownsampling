@@ -1,14 +1,14 @@
-4c0df7fba22e1e63437e589e20315366 *DESCRIPTION
+9d75b5ed6c12eb85e7dcfc2022aeacc3 *DESCRIPTION
 3aae2da5c5aa8f8e9a28b3086d5a3b98 *NAMESPACE
 dfd725c94fa62eb3230d2a928d434487 *R/EucDist.R
 afb5ab90a1f6d3db5ab75cfd33cb1a1e *R/KullbLeiblKLD2.R
 963e64755758d4d581912e55a0fac61c *R/SmoothDensHist1dim.R
 dd564bf99af9be64b9334e796a9908c3 *R/amrdd.R
-de858ccba2eb31ef36a2b709723ad104 *R/opdisDownsampling.R
+adaad1ce0790ae05ee7143d18df5d049 *R/opdisDownsampling.R
 91183a036449c5e86d4aac87ce046afc *R/relevant_PCAvariables.R
 07d8faa3c2575d3f186ff90c179ef82d *data/FlowcytometricData.rda
 453f40173b58ce556a6ce4aed80b1a3d *data/GMMartificialData.rda
 acabaf18f8814e4d1001840af9c8627f *inst/CITATION
 1022f61f84b66f7c84806c985efd80b9 *man/FlowcytometricData.Rd
 32f91f66154af9eef546b763325dd8e1 *man/GMMartificialData.Rd
-d1627dd4cf99449e63852e85467d67f0 *man/opdisDownsampling.Rd
+1f38631b5df34f6c04de26a8d26e7a71 *man/opdisDownsampling.Rd
