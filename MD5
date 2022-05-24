@@ -1,9 +1,9 @@
-0f304e622eb4629de98dac8d5aa09b92 *DESCRIPTION
+bad03ea4c06fe91e15347dcd81fd82cc *DESCRIPTION
 efa7cfaa56254ecca0d125e139553cff *NAMESPACE
-bf749e870f2ad69c95951ba5fd94ecd7 *R/CompDistrib.R
+e926153f5b45587c8ea7e607e5adea55 *R/CompDistrib.R
 35abb3b35bc001645fdc400223f3044f *R/EucDist.R
 dba204c45c1a909623656c2d8f048b42 *R/KullbLeiblKLD2.R
-8b8257f21f0eb13048e5c13ddd7be9ce *R/MakeReducedDataMat.R
+03fccc637006c45174e745e3f2504638 *R/MakeReducedDataMat.R
 f0011ae647ccd4aa8ef1e18e268fdaaa *R/SmoothDensHist1dim.R
 5ddaaf71feba955e52bfec2c06d77fcc *R/amrdd.R
 2367866d3c5dba8a03967f1752d0d725 *R/opdisDownsampling.R
