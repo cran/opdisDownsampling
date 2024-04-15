@@ -1,4 +1,4 @@
-0732ce14b589ea149e68a541ccbaa227 *DESCRIPTION
+19acdcdc52e114f96b573a8533340bdc *DESCRIPTION
 d6decd786f98d244659af68e26abcbcc *NAMESPACE
 e48a10f1ef108fdafab26a922b4f0b92 *R/CompDistrib.R
 27c411f9076507650dfc7062290f25ba *R/CompareReducedDataMat.R
@@ -8,7 +8,6 @@ e48a10f1ef108fdafab26a922b4f0b92 *R/CompDistrib.R
 490f4750c83d08a34dfc1188494f376a *R/SmoothDensHist1dim.R
 7a94fc80ed018bcedd79dfef95d5f283 *R/amrdd.R
 98ca5d82fe159d20b6036397403e0e58 *R/get_seed.R
-d41d8cd98f00b204e9800998ecf8427e *R/globals.R
 752e7581b87dfbc51142b22106f86647 *R/opdisDownsampling.R
 feae965c998d1666fe597708333aced6 *R/relevant_PCAvariables.R
 4587dcf00c4758986851432d91302584 *R/sample_and_analyze.R
